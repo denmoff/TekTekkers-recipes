@@ -23,7 +23,7 @@
 				<key>filename</key>
 				<string>%NAME%.dmg</string>
 				<key>url</key>
-				<string>https://www.deezer.com/desktop/download?platform=darwin&amp;architecture=x64</string>
+				<string>https://www.deezer.com/desktop/download?platform=darwin&amp;architecture=x64&amp;platformVersion=9999</string>
 			</dict>
 			<key>Processor</key>
 			<string>URLDownloader</string>
